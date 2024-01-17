@@ -1,0 +1,5 @@
+venv
+venv/*
+__pycache__
+/__pycache__
+adv-tutorials/project/__pycache__
